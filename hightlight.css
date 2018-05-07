@@ -1,3 +1,9 @@
+/* uprava pro dist */
+.gist  {
+  max-width: 742px;
+  margin: 0 auto;
+  border-radius: 3px;
+}
 /*
 
 Monokai Sublime style. Derived from Monokai by noformnocontent http://nn.mit-license.org/
